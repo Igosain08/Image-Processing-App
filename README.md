@@ -25,3 +25,7 @@ pip install numpy pillow
 Usage
 Navigate to the project directory and execute the script for image processing or KNN classification as needed. Example for running an image processing operation:
 python image_processor.py
+## Authors
+
+- **Ishaan Gosain** - *Initial work* - [Igosain08](https://github.com/Igosain08)
+- **Vedant Vardhaan** - *Collaborator* - [PartnerGitHubUsername](https://github.com/PartnerGitHubUsername)
