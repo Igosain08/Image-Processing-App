@@ -19,12 +19,12 @@ This project implements an advanced suite of image processing capabilities along
 ### Installation
 Clone the project repository:
 
-git clone https://github.com/yourusername/image-processing-knn-classification.git
+git clone [https://github.com/yourusername/image-processing-knn-classification.git](https://github.com/Igosain08/Image-Processing-App.git)
 Install the required packages using pip:
 pip install numpy pillow
 Usage
 Navigate to the project directory and execute the script for image processing or KNN classification as needed. Example for running an image processing operation:
-python image_processor.py
+python project.py
 ## Authors
 
 - **Ishaan Gosain** - *Initial work* - [Igosain08](https://github.com/Igosain08)
