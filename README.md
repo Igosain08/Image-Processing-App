@@ -28,4 +28,4 @@ python project.py
 ## Authors
 
 - **Ishaan Gosain** - *Initial work* - [Igosain08](https://github.com/Igosain08)
-- **Vedant Vardhaan** - *Collaborator* - [PartnerGitHubUsername](https://github.com/PartnerGitHubUsername)
+- **Vedant Vardhaan** - *Collaborator* - [PartnerGitHubUsername](https://github.com/VedVar43789)
